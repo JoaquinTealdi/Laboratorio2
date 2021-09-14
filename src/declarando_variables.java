@@ -1,4 +1,4 @@
-public class Desafio4_declarando_variables {
+public class declarando_variables {
     public static void main(String[] args) {
         String nombre = "Joaquin";
         int edad = 21;
@@ -8,3 +8,4 @@ public class Desafio4_declarando_variables {
 
     }
 }
+
