@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3f2c399a-1a92-4592-be4d-2381419d4738" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../out/production/Laboratorio2/declarando_variables.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../out/production/Laboratorio2/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/../out/production/Laboratorio2/HelloWorld.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Acomodadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Acomodadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Empleados.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Empleados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Espectadores.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Espectadores.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Personas.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Personas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TrabajoGrupal/Salas.java" beforeDir="false" afterPath="$PROJECT_DIR$/TrabajoGrupal/Salas.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
