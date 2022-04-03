@@ -1,8 +1,9 @@
 package TrabajoGrupal;
 
-public class Acomodadores extends Empleados implements ParaAcomodadores{
+public class Acomodadores extends Empleados implements ParaAcomodadores {
     String sala;
     double sueldo;
+
     //constructor
     public Acomodadores(String nombre, int edad) { //, double sueldo
         super(nombre, edad); //, sueldo
@@ -12,7 +13,7 @@ public class Acomodadores extends Empleados implements ParaAcomodadores{
         this.sala = sala;
     }
 
-    public String getTipo(){
+    public String getTipo() {
         return "Acomodador";
     }
 
@@ -24,7 +25,8 @@ public class Acomodadores extends Empleados implements ParaAcomodadores{
         return "\n" + "Nombre: " + nombre + "\n" + "Edad: " + edad + "\n" + "Sueldo: " + sueldo + "\n" + "Sala: " + sala;
     }
 
-    public void setSala(Salas sala) {}
+    public void setSala(Salas sala) {
+    }
 
     public String getSala() {
         return this.sala;

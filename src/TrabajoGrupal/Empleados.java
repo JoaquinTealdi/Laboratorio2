@@ -22,6 +22,10 @@ public class Empleados extends Personas {
         return "Empleado";
     }
 
+    public String nombreCompleto(){
+        return super.nombre + super.edad;
+    }
+
     public String toString() {
         return "\n" + "Nombre: " + super.nombre + "\n" + "Edad: " + super.edad + "\n" + "Sueldo: " + sueldo + "\n";
     }

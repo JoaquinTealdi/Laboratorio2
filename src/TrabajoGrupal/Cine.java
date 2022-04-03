@@ -9,6 +9,7 @@ public class Cine {
 
         Espectadores espectador1 = new Espectadores("Joaquin", 21, "A", 12);
         Espectadores espectador2 = new Espectadores("Ivan", 30, "A", 2);
+
         espectador1.setSala(sala.getNombre());
         espectador2.setSala(sala.getNombre());
 
@@ -22,6 +23,9 @@ public class Cine {
         Empleados empleado1 = new Empleados("Alan", 32);
         empleado1.setSueldo(30000);
         System.out.println("| Empleado 1 |"+ empleado1.toString());
+
+
+
 
 
 
